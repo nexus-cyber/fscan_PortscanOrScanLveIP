@@ -7,7 +7,7 @@ https://github.com/shadow1ng/fscan
 ![2](https://github.com/user-attachments/assets/dfd73966-9cc5-44a5-b589-acf867b2d503)
 
 添加-pt选项，作用为在portscan时，设置端口连接失败的重试次数，默认为0次
-原来端口扫描功能的端口连接超时时间由timeout（秒级）设置，本次将其改为有porttime（毫秒级）设置
+原来端口扫描功能的端口连接超时时间由timeout（秒级）设置，本次将其改为由porttime（毫秒级）设置
 ![1](https://github.com/user-attachments/assets/c6fce511-7836-4071-9704-5db451868a11)
 
 使用ops进行端口扫描，超时时间设置为500毫秒
